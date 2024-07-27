@@ -7,7 +7,13 @@ This repository contains various desktop notifier applications written in Python
 1. **[Weather Notifier](https://github.com/bhavya6krv3/python-desktop-notifiers/tree/main/weather-notifier)**
     - Fetches weather data from OpenWeatherMap API.
     - Generates notifications every 2 hours with temperature updates.
-    - Installation and usage details can be found in the [Weather Notifier README](https://github.com/bhavya6krv3/python-desktop-notifiers/tree/main/weather-notifier).
+    - Installation and usage details can be found in the [Weather Notifier README](https://github.com/bhavya6krv3/python-desktop-notifiers/tree/main/weather-notifier/README.md).
+
+2. **[News Notifier](https://github.com/bhavya6krv3/python-desktop-notifiers/tree/main/news-notifier)**
+    - Fetches weather data from News API.
+    - Generates notifications every 2 hours with News Details.
+    - Installation and usage details can be found in the [News Notifier README](https://github.com/bhavya6krv3/python-desktop-notifiers/tree/main/news-notifier/README.md).
+
 
 ## Installation
 
