@@ -1,4 +1,4 @@
-# Desktop Weather Notifier
+# Desktop News Notifier
 
 This Python script fetches random news articles related to various technology and coding topics, and sends desktop notifications with the latest news updates. It utilizes the News API for retrieving news articles and the Plyer library for displaying notifications.
 
